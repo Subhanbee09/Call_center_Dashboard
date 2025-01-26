@@ -8,3 +8,4 @@
 - Avg call Duration(Min)
 - Response Time %
 - <a href="https://github.com/Subhanbee09/Call_center_Dashboard/blob/main/Call%20Center%20Dashboard.pbix">Call Center Dashboard</a>
+- <a href="https://github.com/Subhanbee09/Call_center_Dashboard/blob/main/Call%20Center%20Dashboard%20Image.png">Call Center Image</a>
